@@ -2,10 +2,10 @@
 
 body {
     background: hsl(212, 45%, 89%);
-    margin: 100px;
-    padding: 5px;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center
 }
 
 .qr-code {
