@@ -10,16 +10,16 @@ body {
 
 .qr-code {
     max-width: calc(100% - 5px);
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .card {
-    width: 200px;
+    width: 320px;
     background: white;
     /* margin: 0 auto; */
     padding: 10px;
     display: flex;
-    /* justify-content: space-around; */
+    justify-content: space-around;
     text-align: center;
     flex-direction: column;
     border-radius: 20px;
