@@ -8,9 +8,24 @@ body {
     align-items: center
 }
 
+h3 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+p {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: gray;
+    
+}
+
+
+
+
+
 .qr-code {
     max-width: calc(100% - 5px);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .card {
@@ -22,7 +37,7 @@ body {
     justify-content: space-around;
     text-align: center;
     flex-direction: column;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 
